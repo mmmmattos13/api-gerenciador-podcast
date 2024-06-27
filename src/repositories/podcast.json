@@ -1,0 +1,14 @@
+[
+    {
+        "podcastName":"flow",
+        "episode":"CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte"]
+    },
+    {
+        "podcastName":"teste",
+        "episode":"CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["esporte"]
+    }
+]
